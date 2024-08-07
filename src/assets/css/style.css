@@ -1,0 +1,18 @@
+.login{
+  width: 400px;
+  
+}
+.login-title {
+  color: #491c1c;
+  margin-bottom: 20px;
+  border-bottom: 2px solid;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.alert {
+  color: red; 
+}
+.toastBody {
+  font-family: "Atlas Grotesk Web", Arial, Helvetica, sans-serif;
+  font-size:1.2rem;
+}
